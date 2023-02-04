@@ -8,4 +8,3 @@ Assignment 3: Student Checklist
 3. Alert Messages are displayed for Addition of New Student , Deletion & Edit.
 4. On selecting any of the check-boxes,Background color for the particular row  is changed to “Yellow” using the CSS style sheet. 
 5. A delete,Edit button added dynamically in DELETE/EDIT column using the CSS Style : Display
-6. To toggle i am passing this object and I am hiding the sibling row.
